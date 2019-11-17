@@ -77,7 +77,7 @@ public class ChatActivity extends AppCompatActivity {
     @Override
     public void onBackPressed() {
         chatFragment.backPressed();
-        finish();;
+        finish();
     }
 
 }
